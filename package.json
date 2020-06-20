@@ -1,0 +1,17 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "Setting Up Http Server",
+  "main": "index.js",
+  "author": "McBryan",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
